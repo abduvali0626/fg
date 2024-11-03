@@ -1,0 +1,153 @@
+.body {
+    background-color:purple ;
+}
+
+
+.text {
+    text-align: center;
+    color: #dc99f3;
+    font-size: 96px;
+}
+
+
+.box1-ota {
+width: 1440px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: flex-start;
+gap: 10px;
+border-radius:10px;
+border: 10px solid #dc99f3;
+}
+
+
+.box {
+    width: 169px;
+    height: 167px;;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+
+.title {
+  text-align: center;
+  color: #dc99f3;
+  font-size: 96px;
+}
+
+.box2-ota {
+width: 1440px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: flex-end;
+gap: 10px;
+border-radius:10px;
+border: 10px solid #dc99f3;
+}
+
+.box {
+   width: 169px;
+    height: 167px;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-end;  
+}
+
+
+.box3-ota {
+ width: 1440px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: center;
+gap: 10px;
+border-radius:10px;
+border: 10px solid #dc99f3;
+}
+
+.box {
+    width: 169px;
+    height: 167px;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;   
+}
+
+
+.box4-ota {
+   width: 1440px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: space-between;
+gap: 10px;
+border-radius: 10px;
+border: 10px solid #dc99f3; 
+}
+
+.box {
+   width: 169px;
+    height: 167px;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between; 
+}
+
+
+.box5-ota {
+     width: 1440px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: space-around;
+gap: 10px;
+border-radius: 10px;
+border: 10px solid #dc99f3; 
+}
+
+
+.box {
+   width: 169px;
+    height: 167px;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box6-ota {
+     width: 1440px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content:space-evenly;
+gap: 10px;
+border-radius: 10px;
+border: 10px solid #dc99f3; 
+}
+
+
+.box {
+   width: 169px;
+    height: 167px;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly; 
+}
